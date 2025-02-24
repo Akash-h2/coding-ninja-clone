@@ -1,5 +1,6 @@
 📌 Coding Ninja Clone
-A fully responsive Coding Ninja Clone built with React.js, Tailwind CSS, and Framer Motion to provide an interactive learning platform experience.
+
+ A fully responsive Coding Ninja Clone built with React.js, Tailwind CSS, and Framer Motion to provide an interactive learning platform experience.
 
 🚀 Features
 ✅ Fully Responsive Design – Works on all screen sizes
